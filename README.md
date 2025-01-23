@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a potential subtle error:  handling an empty list in average calculation. The `bug.py` file shows the initial code with the potential issue. The `bugSolution.py` file offers a refined solution for more robust error handling.
